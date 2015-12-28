@@ -14,7 +14,7 @@ int AbsI(int number);
 class SimpleTracker : public SimpleRobot
 {
     // Local variables 
-	DRIVEMOTOR *lfMotor; // Left-front drive motor
+    DRIVEMOTOR *lfMotor; // Left-front drive motor
     DRIVEMOTOR *lrMotor; // Left-rear drive motor
     DRIVEMOTOR *rfMotor; // Right-front drive motor
     DRIVEMOTOR *rrMotor; // Right-rear drive motor
